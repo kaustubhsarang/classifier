@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_65-b17 (Oracle Corporation)
+Class-Path: lib/commons-io-2.4.jar lib/Jama-1.0.3.zip lib/commons-io-2
+ .4-javadoc.jar lib/commons-io-2.4-sources.jar lib/commons-io-2.4-test
+ s.jar lib/commons-io-2.4-test-sources.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: com.clus.DemoJFileChooser
+
